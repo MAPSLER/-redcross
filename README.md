@@ -1,2 +1,3 @@
-# -redcross
-redcross
+# redcross
+redcross <redcross>
+.h redcross
